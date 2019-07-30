@@ -33,7 +33,8 @@ the same set of parameters.  batch_sim.m will automatically read each dataset in
 simulation.m contains code for the simulator, which will inject a circular region that differs within a specified range of 
 the data distribution.
 
-PlotAUCResults.m 
+PlotAUCResults.m is used to recreate the bar graph plots shown in the paper.  
+It will output which algorithms are significantly different from the others.
 
 
 
